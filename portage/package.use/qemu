@@ -1,0 +1,10 @@
+>=app-emulation/libvirt-glib-0.2.0 python
+# required by app-emulation/virt-manager-4.0.0::gentoo[gtk,-test]
+# required by app-emulation/virt-manager (argument)
+>=net-misc/spice-gtk-0.41-r1 usbredir
+# required by app-emulation/libvirt-8.9.0::gentoo[virt-network]
+# required by app-emulation/libvirt-glib-4.0.0::gentoo
+# required by app-emulation/virt-manager-4.0.0::gentoo[-test]
+# required by app-emulation/virt-manager (argument)
+>=net-dns/dnsmasq-2.89 script
+

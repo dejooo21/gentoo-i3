@@ -1,0 +1,2 @@
+# required by media-sound/pulseaudio-daemon-16.1-r6::gentoo
+>=media-libs/libpulse-16.1-r1 X

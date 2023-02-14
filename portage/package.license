@@ -1,0 +1,21 @@
+# Linux kernel
+sys-kernel/linux-firmware linux-fw-redistributable no-source-code
+
+# Nvidia Drivers
+x11-drivers/nvidia-drivers NVIDIA-r2
+
+# Discord
+net-im/discord all-rights-reserved
+
+# Steam
+games-util/steam-overlay ValveSteamLicense
+games-util/steam-launcher ValveSteamLicense
+
+# Spotify
+media-sound/spotify Spotify license
+
+# Minecraft
+games-action/minecraft-launcher Mojang license
+
+# Visual Studio Code
+app-editors/vscode Microsoft-vscode

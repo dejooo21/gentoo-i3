@@ -1,0 +1,59 @@
+# Lutris
+games-util/lutris ~amd64
+
+# OpenTabletDrivers
+x11-drivers/OpenTabletDriver-bin ~amd64
+dev-dotnet/dotnet-sdk-bin:6.0 ~amd64
+
+# pcmanfm
+x11-misc/pcmanfm ~amd64
+x11-libs/libfm ~amd64
+
+# Steam
+games-util/steam-launcher ~amd64
+games-util/game-device-udev-rules ~amd64
+
+# Wine
+app-emulation/wine-staging ~amd64
+app-emulation/wine-mono ~amd64
+
+# Minecraft
+games-action/minecraft-launcher ~amd64
+
+# Visual Studio Code
+app-editors/vscode ~amd64
+
+# Mangohud
+games-util/mangohud ~amd64
+
+# AppImageLauncher
+app-misc/appimagelauncher-bin
+app-emulation/fuse ~amd64
+app-emulation/libspectrum ~amd64
+
+# obs-studio
+media-video/obs-studio ~amd64
+
+# An Anime Game Launcher (Genshin Impact)
+games-misc/an-anime-game-launcher-bin ~amd64
+games-misc/an-anime-game-launcher-gtk ~amd64
+
+# ethq
+sys-apps/ethq ~amd64
+
+# gwe
+sys-power/gwe ~amd64
+
+# picom
+x11-misc/picom-jonaburg
+
+# scrcpy
+app-mobilephone/scrcpy ~amd64
+
+# mangohud
+games-util/mangohud ~amd64
+
+# imgui
+media-libs/imgui ~amd64
+
+

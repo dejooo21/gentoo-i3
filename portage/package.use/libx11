@@ -1,0 +1,13 @@
+# required by x11-libs/libXext-1.3.5::gentoo
+# required by media-libs/imlib2-1.9.1-r1::gentoo[X]
+# required by media-gfx/scrot-1.7-r3::gentoo
+# required by app-misc/screenfetch-3.9.1::gentoo[X]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libX11-1.8.1 abi_x86_32
+# required by x11-libs/libX11-1.8.1::gentoo
+# required by sys-fs/mtools-4.0.42::gentoo[gui]
+# required by sys-boot/syslinux-6.04_pre1-r5::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libxcb-1.15-r1 abi_x86_32

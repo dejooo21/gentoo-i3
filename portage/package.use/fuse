@@ -1,0 +1,1 @@
+app-emulation/fuse -alsa -ao -backend-gtk3 -gpm -joystick -png -pulseaudio -xml -zlib -backend-X -backend-fbcon -backend-sdl (-backend-svga) -memlimit

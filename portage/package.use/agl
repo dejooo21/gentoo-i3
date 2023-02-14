@@ -1,0 +1,3 @@
+# required by games-misc/an-anime-game-launcher-bin-2.4.4::The-Anime-Game
+# required by an-anime-game-launcher-bin (argument)
+>=dev-util/xdelta-3.0.11-r1 lzma

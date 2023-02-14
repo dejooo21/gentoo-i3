@@ -1,0 +1,7 @@
+# required by net-firewall/firewalld-1.2.2::gentoo[nftables,iptables]
+# required by firewalld (argument)
+>=net-firewall/nftables-1.0.5 xtables python json
+# required by dev-python/PyQt5-5.15.7::gentoo[multimedia]
+# required by net-firewall/firewalld-1.2.2::gentoo[python_single_target_python3_10,gui]
+# required by firewalld (argument)
+>=dev-qt/qtmultimedia-5.15.8 widgets
